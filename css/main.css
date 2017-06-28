@@ -70,6 +70,7 @@ body {
       color: white; }
   .services .services-paragraph {
     border: solid white 2px;
+    border-top-width: 0;
     padding: 40px 130px; }
     .services .services-paragraph p {
       font-family: "Lato";
